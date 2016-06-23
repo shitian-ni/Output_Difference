@@ -1,5 +1,5 @@
 # Output-Difference
-Mainly for code competition.
+Mainly for code competitions.
 
 Checked output files need to be in a format as:
 
